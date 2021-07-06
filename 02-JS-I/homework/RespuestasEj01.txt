@@ -1,0 +1,5 @@
+Variables: las variables son espacios de memoria en donde se almacena un valor para que pueda ser accedido cuando se le requiera, se identifican con un nombre.
+String: se refiere a un tipo de dato que representa a una cadena de texto.
+Funciones: son una porcion de codigo que realiza alguna operacion dentro de un programa y puede devolver un valor o no, puede tener argumentos que se pasan
+parametros para que realize algun tipo de operacion dentro de la misma, y al devolver un resultado se lo asigna a la paralabra reservada "return". 
+Valores Booleanos: representa a un tipo de valor que pude solo puede ser Verdadero o Falso.
