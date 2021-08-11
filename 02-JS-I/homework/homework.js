@@ -104,7 +104,7 @@ function esPar(num) {
     else {return false;}
 
   }
-}
+
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
