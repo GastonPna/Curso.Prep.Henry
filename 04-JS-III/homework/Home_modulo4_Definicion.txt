@@ -1,0 +1,4 @@
+Arrays: es una colección o 'lista' de elementos de datos, que se almacenan ocupando un lugar o posicion
+dentro de esta lista o matriz, la cual es indicada por un numero. Las matrices comienzan desde la posicion 0, 
+y pueden almacenar tantos datos como se desee, los cuales pueden ser del mismo tipo o no. Para conocer la
+cantidad de datos almacenados se utilza el nombre del array seguido por un punto y la funcion length.
