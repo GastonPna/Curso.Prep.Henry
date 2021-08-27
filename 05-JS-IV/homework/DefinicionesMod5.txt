@@ -1,0 +1,11 @@
+Objetos: un objeto es una especie de 'contenedor', que representa a un elemento de la realidad, donde se 
+alamcenan datos y metodos o funciones relacionados al mismo.
+
+Propiedades: las propiedades son los datos que almacena el objeto.
+
+Metodos: los metodos son las funciones del objeto.
+
+for..in: es un bucle integrado que se utiliza para recorrer todas las claves o propiedades de un objeto.
+
+Notacion de puntos: se utiliza para acceder al valor de una clave; Notacion de corchetes: se utiliza para acceder
+al valor de una clave, utilizando una cadena o numero que con frecuencia es una variable.
