@@ -1,0 +1,4 @@
+prototype: es un propiedad que tiene cada clase para dar acceso a 
+cada objeto de la clase.
+_Constructors_: es un metodo con el que se utiliza para crear un objeto y  
+heredar sus propiedades y metodos.
